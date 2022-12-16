@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = 3da1ec06-8c97-478d-a260-b6ac7ddff650
+[datalad "containers.cpac-1-8-5"]
+	image = .datalad/environments/cpac-1-8-5/image
