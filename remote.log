@@ -1,0 +1,1 @@
+67b539d8-b66b-46c0-8203-25120783631c autoenable=true bucket=fcp-indi datacenter=US encryption=none exporttree=no fileprefix=data/Projects/RBC/cpac_container/ host=s3.amazonaws.com name=fcp-indi partsize=1GiB port=80 public=yes storageclass=STANDARD type=S3 timestamp=1695324339.010242878s
